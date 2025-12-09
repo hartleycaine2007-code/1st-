@@ -71,4 +71,4 @@ Thank you for checking out our Coquette Calculator!
 We hope you enjoy the smooth, cute, and functional computing experience. ♡
 ## Screenshots
 
-![Screenshot](Screenshots/screenshot.png)
+![image](https://github.com/hartleycaine2007-code/1st-/blob/1884ea942506fd870f16021984a8870049a2314d/Screenshot%20(191).png)
